@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Kaloyan
 #### I'm currently studying JavaScript at Software University in Bulgaria.  
 I've also been working on HTML/CSS projects for a while and did cool stuff which I will upload in the near future.  
-My focus is front-end web development. I love the process of learning and creating new things every single day.
+My focus is front-end web development. I love the process of creating and learnig new things every day.
 
 #### Current Skills:
 
