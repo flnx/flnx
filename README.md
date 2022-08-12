@@ -3,7 +3,7 @@
 #### I'm definitely not a Junior Web Developer yet
 
 - ℹ️ Currently focused on learning JavaScript.
-- 💻 I've also been learning HTML/CSS and got some cool projects, which I will upload at any point.
+- 💻 I've also been learning HTML/CSS and have done some cool projects, which I will upload at any point.
 - 🎯 Looking forward to learning React!
 
 
