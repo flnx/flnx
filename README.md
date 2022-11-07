@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi There]https://media2.giphy.com/media/Nx0rz3jtxtEre/giphy.gif?cid=ecf05e47ld10d4fa1f50eoa05so2xqlyc58bp37s5d5npddb&rid=giphy.gif&ct=g
  ---
 #### I'm definitely not a Junior Web Developer yet
 
