@@ -12,4 +12,8 @@
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,figma&theme=light)](https://skills.thijs.gg)
 
        
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flnx&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flnx&layout=compact)](https://github.com/flnx/github-readme-stats)
+
+
+ Stats                     | Languages 
+:-------------------------:|:-------------------------:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flnx&theme=radical&show_icons=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flnx&layout=compact)](https://github.com/flnx/github-readme-stats)
