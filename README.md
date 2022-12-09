@@ -1,6 +1,6 @@
 ![Hi There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
  ---
-#### I'm definitely not a Junior Web Developer yet
+#### I do stuff with JavaScript :)
 
 - ℹ️ Currently focused on learning JavaScript.
 - 💻 I've also been learning HTML/CSS and have done some cool projects, which I will upload at some point.
