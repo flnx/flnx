@@ -2,9 +2,7 @@
  ---
 #### I do stuff with JavaScript :)
 
-- ℹ️ Currently focused on learning JavaScript.
-- 💻 I've also been learning HTML/CSS and have done some cool projects, which I will upload at some point.
-- 🎯 Looking forward to learning React!
+- ℹ️ Currently focused on learning React.
 
 
 
