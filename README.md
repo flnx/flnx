@@ -2,12 +2,9 @@
  ---
 #### I do stuff with JavaScript :)
 
-- ℹ️ Currently focused on learning React.
 
-
-
-#### Current Skills
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,scss,react)](https://skills.thijs.gg)
+#### Skills
+[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,react,html,css,scss)](https://skills.thijs.gg)
 
        
 
