@@ -1,7 +1,7 @@
 ![Hi There](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
  ---
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,nodejs,express,mongodb,react,nextjs,html,css,scss)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,express,mongodb,react,nextjs,html,css,scss)](https://skills.thijs.gg)
 
        
 
