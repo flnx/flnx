@@ -1,1 +1,1 @@
-Feel free to reach out if you wanna collaborate on a Project 🦖
+Don't hesitate to get in touch if you'd like to join forces on a project 🦖
